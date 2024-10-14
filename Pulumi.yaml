@@ -1,6 +1,6 @@
-name: pulumi-test-repo
+name: zbuchheit-deployment-test-project
 runtime: nodejs
-description: A minimal AWS TypeScript Pulumi program
+description: A test project for deployments
 config:
   pulumi:tags:
     value:
